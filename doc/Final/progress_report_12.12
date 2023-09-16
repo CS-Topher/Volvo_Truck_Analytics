@@ -72,7 +72,7 @@ James Polk
 <task><hours>
 ...
 
-Christopher Thacker
+Chris T.
 Rename Columns to Be More Readable (~2 hours)
 The data that's been provided isn't very useful if we can't understand what it means, so the provided column names needed to be changed.
 These changes included removing unnecessary column name parts, changing title formats, and including the unit of measurement, if 

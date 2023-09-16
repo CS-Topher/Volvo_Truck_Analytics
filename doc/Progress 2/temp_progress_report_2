@@ -56,7 +56,7 @@ Since the data does not include latitude and longitudinal information, I sliced 
 sum(Vehicle Speed (Wheel-Based; km/hr))/3600 to determine the total distance traveled.  The results were 872.5 km, 371.3 km, and 781.8 km for
 days 1, 2, and 3 respectively.  This allowed us to determine that Truck 1 was a long-haul truck.
 
-Christopher Thacker
+Chris T.
 GPS Speed vs. Wheel-Based Speed Analysis & Determination of Long/Short Haul Trucks (16+ hours)
 The goal of this task was to compare GPS Speed and Wheel-Based Vehicle Speed for Truck 1 and Truck 2 internally through visual
 representation and percent change, and then compare the results for each truck to each other. The results revealed a major issue

@@ -19,7 +19,7 @@
     - CPU Load Analysis & Regression.
     - Time Series Analysis.
     - Component Analysis & Weighted Averaging.
-- [Christopher Thacker](https://github.com/Kozmocha)
+- [Chris T.](https://github.com/CS-Topher)
     - Column Renaming.
     - GPS Speed vs. Wheel-Based Speed Analysis.
     - Truck 2 GPS Speed Value Predictions / Corrections.
